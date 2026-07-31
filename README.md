@@ -4,7 +4,7 @@ SprintBoard is a modern task management web application designed to help users o
 
 ## 🌐 Live Demo
 
-[https://sprint-board-theta-coral.vercel.app]([https://sprint-board-theta-coral.vercel.app/])
+[https://sprint-board-theta-coral.vercel.app](https://sprint-board-theta-coral.vercel.app/)
 
 ## ✨ Features
 
